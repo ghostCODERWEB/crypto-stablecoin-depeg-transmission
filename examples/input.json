@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "id": "usd",
+      "price": "0.8"
+    },
+    {
+      "id": "eth",
+      "price": 1
+    },
+    {
+      "id": "basket",
+      "backing": [
+        {
+          "asset": "usd",
+          "weight": "0.5"
+        },
+        {
+          "asset": "eth",
+          "weight": "0.5"
+        }
+      ]
+    }
+  ]
+}

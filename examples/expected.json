@@ -1,0 +1,12 @@
+{
+  "loss_from_par": {
+    "basket": "0.1",
+    "eth": "0",
+    "usd": "0.2"
+  },
+  "prices": {
+    "basket": "0.9",
+    "eth": "1",
+    "usd": "0.8"
+  }
+}
